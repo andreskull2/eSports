@@ -20,7 +20,7 @@
 
 ## 🚀 About the Project
 
-This project was built during **NLW #9 – eSports**, an online and free event held by Rocketseat between **September 11 and 18, 2022**. Although it was launched some time ago, I used it as a hands-on challenge to **practice foundational HTML and CSS concepts** as part of my current Full Stack training.
+This project was built during **NLW #9 – eSports**, an online and free event held by Rocketseat between **September 11 and 18, 2022**. Although it was launched some time ago, I used it as a hands-on challenge to **practice foundational HTML and CSS concepts** during my Full Stack training journey.
 
 The challenge was to create an **interface inspired by the gaming universe**, working as a link aggregator:
 
@@ -81,9 +81,12 @@ cd eSports
 # Open the index.html file in your browser
 ```
 ---
+
 ## :memo: License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 Feel free to use it as a reference or learning material — just remember to give credit where it’s due.
 
-Made with ♥ by Rocketseat — Rebuilt with care by @andreskull2 🚀
+---
+
+Made with ♥ by Rocketseat — Rebuilt with care by @andreskull2 🚀  
 :wave: [Join our community!](https://discord.gg/rocketseat)
