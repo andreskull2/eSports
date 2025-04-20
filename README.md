@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Project cover" src="gitHub/preview.png" width="100%">
+  <img alt="Project cover" src="github/preview.png" width="100%">
 </p>
 
 ## 🚀 About the Project
