@@ -31,8 +31,6 @@ The challenge was to create an **interface inspired by the gaming universe**, wo
 
 This page serves as a kind of **personalized gamer portfolio** or digital card for content creators.
 
-> ✨ *"Embark on a mission to reach your next level in programming. Build a brand-new project in the gaming universe, learn new skills and technologies, and boost your career as a dev."*
-
 ---
 
 ## 🧠 About this Repository
